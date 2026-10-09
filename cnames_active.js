@@ -3854,7 +3854,7 @@ var cnames_active = {
   "yatta": "cname.vercel-dns.com", // noCF
   "yay-machine": "maurice.github.io/yay-machine",
   "ydb": "ydb-platform.github.io/ydb-js-sdk",
-  "yen": "cname.vercel-dns.com",
+  "yenueljaysoncatchero": "cname.vercel-dns.com",
   "yennj12": "yennanliu.github.io",
   "yh": "hksat.github.io",
   "yiff": "codepupper.github.io/yiff",
